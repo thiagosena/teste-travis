@@ -1,4 +1,4 @@
-package com.ufrn.test;
+package calculator;
 
 import static org.junit.Assert.assertEquals;
 
